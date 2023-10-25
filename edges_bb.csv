@@ -1,0 +1,13 @@
+﻿from, to,generated
+Walter White, Jesse Pinkman,0
+Walter White, Skyler White,1
+Walter White, Hank Schrader,2
+Jesse Pinkman, Jane Margolis,3
+Jesse Pinkman, Saul Goodman,4
+Skyler White, Marie Schrader,5
+Skyler White, Ted Beneke,6
+Hank Schrader, Gustavo Fring,7
+Gustavo Fring, Mike Ehrmantraut,8
+Gustavo Fring, Hector Salamanca,9
+Saul Goodman, Mike Ehrmantraut,10
+Mike Ehrmantraut, Hector Salamanca,11
