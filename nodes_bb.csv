@@ -1,12 +1,12 @@
-﻿node
-Walter White
-Jesse Pinkman
-Skyler White
-Hank Schrader
-Jane Margolis
-Saul Goodman
-Marie Schrader
-Ted Beneke
-Gustavo Fring
-Mike Ehrmantraut
-Hector Salamanca
+﻿id, name, sex
+ww, Walter White, male
+jp, Jesse Pinkman, male
+sw, Skyler White, female
+hs, Hank Schrader, male
+jm, Jane Margolis, female
+sg, Saul Goodman, male
+ms, Marie Schrader, female
+tb, Ted Beneke, male
+gf, Gustavo Fring, male
+me, Mike Ehrmantraut, male
+hs, Hector Salamanca, male
