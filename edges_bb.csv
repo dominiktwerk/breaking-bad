@@ -1,13 +1,13 @@
 ﻿from, to, weight
-Walter White, Jesse Pinkman,3
-Walter White, Skyler White,2
-Walter White, Hank Schrader,1
-Jesse Pinkman, Jane Margolis,1
-Jesse Pinkman, Saul Goodman,3
-Skyler White, Marie Schrader,2
-Skyler White, Ted Beneke,1
-Hank Schrader, Gustavo Fring,1
-Gustavo Fring, Mike Ehrmantraut,3
-Gustavo Fring, Hector Salamanca,3
-Saul Goodman, Mike Ehrmantraut,3
-Mike Ehrmantraut, Hector Salamanca,3
+ww, jp,3
+ww, sw,2
+ww, hs,1
+jp, jm,1
+jp, sg,3
+sw, ms,2
+sw, tb,1
+hs, gf,1
+gf, me,3
+gf, hs,3
+sg, me,3
+me, hs,3
